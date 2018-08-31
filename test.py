@@ -26,5 +26,4 @@ bf = BreadthFirst(pz)
 
 sol = bf.run()
 print('Solution: '+str(sol))
-print('Solution: '+str(sol))
 
